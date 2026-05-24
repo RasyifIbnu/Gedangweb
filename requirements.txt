@@ -1,6 +1,6 @@
 streamlit==1.32.0
 tensorflow==2.16.1
-keras-hub==0.17.0
+keras-hub
 numpy==1.26.4
 opencv-python-headless==4.9.0.80
 matplotlib==3.8.3
